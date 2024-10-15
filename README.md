@@ -76,4 +76,4 @@ python training.py
 
 **Shengbo Fu** @github.com/20191864241 \
 **Email:** 305105281@qq.com \
-**Site:** [GitHub](https://github.com/Cheng0829)
+**Site:** [GitHub](https://github.com/20191864241)
